@@ -1,0 +1,20 @@
+{
+    "name": "omakazit/m2-base",
+    "description": "Omakazit base module",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Omakazit",
+            "email": "team@omakazit.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Omakazit\\Base\\": ""
+        }
+    }
+}

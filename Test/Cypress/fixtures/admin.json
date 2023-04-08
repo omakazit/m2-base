@@ -1,0 +1,7 @@
+{
+    "adminLogin": {
+      "username": "admin",
+      "password": "Pass1234!"
+    },
+    "adminUrl": "/admin"
+}
