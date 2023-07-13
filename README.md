@@ -1,5 +1,6 @@
-# Provides Base stuff about Omakazit modules
+# Omakazit Base Extension
+Provides base stuff about Omakazit modules
 
-# Requirements
-* PHP >= 8.1.0
-* Magento 2.4.x
+## Requirements
+* PHP >= 8.x
+* Adobe Commerce/Magento Open Source 2.4.x
